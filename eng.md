@@ -1,4 +1,5 @@
-<section class="post-content">
+# How to make a Flappy Bird in HTML5 with Phaser
+
 Flappy Bird is a nice little game with easy to understand mechanics, and I
 thought it would be a perfect fit for an HTML5 game tutorial. So in this 
 tutorial we are going to make a simplified version of Flappy Bird, in only 65 
@@ -15,7 +16,8 @@ Note 2: If you want to learn more about the Phaser framework and how to set up
 your environment, you should read my short[getting started tutorial][3] first
 . 
 
-### Set up {#setup}
+
+## Set up
 
 You should download [this basic template][4] that I made for this tutorial. In
 it you will find:
@@ -60,7 +62,8 @@ we discussed in the previous tutorial.
 We are going to fill in the `preload()`, `create()` and `update()` functions,
 and add some new functions to make the game work.
 
-### The bird {#thebird}
+
+## The bird
 
 Okay, so now you are ready to code! Let's first focus on adding a bird to the
 game that can be controlled with the spacebar key.
@@ -116,7 +119,8 @@ And just below this, add these two new functions.
 Save the main.js file with the new code, and reload the index.html file. You
 should have a bird jumping when you press the spacebar key.
 
-### The pipes {#thepipes}
+
+## The pipes
 
 A Flappy Bird game without pipes is not really interesting, so let's change
 that.
@@ -183,7 +187,8 @@ function to stop the timer when we restart the game.
 Now you can save your file and test the code. This is slowly starting to look
 like a real game.
 
-### Scoring and collisions {#scoringandcollisions}
+
+## Scoring and collisions
 
 The last thing we need to finish the game is adding a score and handling
 collisions. And this is quite easy to do.
@@ -211,7 +216,8 @@ bird collides with a pipe.
 And we are done! Congratulation, you now have an HTML5 Flappy Bird clone. You
 can download the full source code[here][5]. 
 
-### What's next? {#whatsnext}
+
+## What's next?
 
 The game is working, but it's a little bit boring. In the next tutorial we'll
 see how we can make it better by adding sounds, animations, menus, etc. So if 
@@ -224,12 +230,7 @@ can also follow me:[@lessmilk_][7].
 And you can have a look at my "one HTML5 game per week" challenge on 
 [lessmilk.com][8]
 
-**Want to be notified when a new game or article is out? Then join more than 1,
-000 people to my newsletter.**
 
-Register to the newsletter: 
-
-No spam, and unsubscribe at any time.</section>
 
  [1]: http://www.lessmilk.com/flappy_bird/
  [2]: img/FB-1.png
