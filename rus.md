@@ -213,7 +213,7 @@ Flappy Bird небольшая милая игра с простой механ�
 
 Также вы можете взглянуть на мой чэллендж (!!!) «по одной HTML5-игре в неделю» на сайте [lessmilk.com][6].
 
- [0]: http://blog.lessmilk.com/how-to-make-flappy-bird-in-html5-1/
+ [0]: http://blog.lessmilk.com/
  [1]: http://lessmilk.com/flappy_bird/01/
  [2]: img/FB-1.png
  [3]: http://blog.lessmilk.com/make-html5-games-with-phaser-1/
